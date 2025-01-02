@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+programa exclusivo e gratuito, promovido por Lucas Duarte para aprendizado de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Devlinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
